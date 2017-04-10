@@ -1,0 +1,22 @@
+Royale with cheese|3.99
+Le Big Mac|4.99
+Milkshake|5.00
+
+Chicken-Nuggets|1.99
+French Fries|2.29
+Quarter Pounder|3.59
+Curly Fries|2.29
+Hot Dog|0.99
+Bacon Burger|3.99
+Veggie Burger|3.19
+Fish Sandwich|2.99
+Veggie Wrap|2.19
+Chicken Wrap|2.19
+
+Southwest Salad|3.19
+Chicken Salad|3.39
+Mozarella Sticks|1.19
+Cookies|0.99
+Water|0.00
+Soda|0.99
+Smoothie|1.19
