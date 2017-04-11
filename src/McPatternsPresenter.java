@@ -9,7 +9,7 @@ import java.util.regex.Matcher;
  */
 public class McPatternsPresenter 
 {
-	String menuFileName = "";
+    String menuFileName = "";
     MenuModel menuModel = new MenuModel();
     McPatternsGUI view;
     Pattern formattedItem; 
