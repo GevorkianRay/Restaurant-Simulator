@@ -5,9 +5,6 @@ import java.util.List;
 /**
  * Forms the main menu of the McPatterns project.
  * Utilizes the ItemModel class to from the menu.
- * Is able to add new items to the menu as they are read from a text file.
- * Attributions to CS club / Mitchell L / Aaron Lee on why implementing iterators is beneficial.
- * Before that advice, I had been previously using a "hash map" to store the menu.
  */
 public class MenuModel implements Iterable<ItemModel>
 {
