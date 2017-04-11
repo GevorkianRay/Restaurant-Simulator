@@ -6,11 +6,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 /**
  * McPatternsPresenter - reads in a .txt file and adds items to the menu as they are read.
- * Attributions to Mitchell LeMoine for walking me through the logic aspect of this class.
- * I originally had used a simple ".split("//|")", but wanted to see how regular expressions worked instead.
- * He also helped me read in files more easily, using the logic of 'url' to get the path to the resource.
- * Also, he explained to me why using hash map is not good for this project, which I agreed as originally
- * looping through the hashmap made it more complicated than it needed to be.
  */
 public class McPatternsPresenter 
 {
