@@ -2,7 +2,7 @@
  * American-Express Credit Card class.
  * Sub-class of Credit Card.
  * Validates whether or not a given Credit Card number matches the following case:
- * First digit is a 3 and second digit a 4 or 7. Length is 15 digits.
+ * First digit is a three and second digit a 4 or 7. Length is 15 digits.
  */
 public class AmExCC extends CreditCard
 {
